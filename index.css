@@ -1,0 +1,30 @@
+ body {
+     background-color: rgb(105, 102, 108);
+ }
+
+ body,
+ header,
+ .ir {
+     font-size: 30px;
+     font-weight: bolder;
+     text-align: center;
+     margin-top: 20px;
+ }
+
+ body,
+ header,
+ input {
+     color: rgb(21, 20, 20);
+ }
+
+ .nr:hover {
+     background-color: rgb(217, 23, 23);
+     color: white;
+ }
+
+ .feedback-form label {
+     display: block;
+     margin: 10px;
+     align-items: center;
+     margin-top: 20px;
+ }
